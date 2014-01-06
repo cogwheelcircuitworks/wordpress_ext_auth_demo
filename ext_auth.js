@@ -12,6 +12,7 @@ jQuery(document).ready(function()
       url: "/wp-login.php",
       data: form_data,
       success: function(json) {
+          alert('you are no logged in. Taking you to the admin page');
           window.location = '/wp-admin'; 
       },
       error: function () {
