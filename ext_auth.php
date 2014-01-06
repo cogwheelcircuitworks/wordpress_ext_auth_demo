@@ -1,7 +1,6 @@
 <?php
 /*
 Plugin Name: ext_auth_demo
-Plugin URI: http://akismet.com/?return=true
 Description:  Wordpress external authentication demo. Based on http://ben.lobaugh.net/blog/7175/wordpress-replace-built-in-user-authentication
 Version: 1
 Author: Bob Coggeshall 
